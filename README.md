@@ -1,7 +1,5 @@
 ## Hey 👋, I'm [Shunsuke Maki!](https://github.com/Shunmaki/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
-
 I'm a graduate student in Computer Sciende from Keio University. I am learning about series data processing (especially music signals).
 
 - 👋 Hi, I’m @Shunmaki
